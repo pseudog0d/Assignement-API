@@ -14,7 +14,7 @@ Create a .env in the root folder file and add: DB_URL="your_desired_url", API_KE
 Install all the dependencies and run with the following command, devStart uses nodemon to autorefresh.
 ```
     git clone https://github.com/pseudog0d/Ethereum-Wallet-API.git
-    cd Ethereum-Wallet-API
+    cd Assignment-API
     npm i && npm run devStart
 ```
 ### Executing program
