@@ -123,12 +123,13 @@ const etherPricePlusBalanceCalculated = async (req, res) => {
 
           // }
           // console.log(transactionResult[i]["from"])
-          console.log(`Calculated Balance: ${transactionResult[i]["value"]}`);
+          console.log(`All Values: ${transactionResult[i]["value"]}`);
           if (transactionResult[i]["from"] == walletAddress) {
             iniSum += transactionResult[i]["value"];
             console.log(`Wow ameer ${transactionResult[i]["from"]}`);
           } else {
             iniSum -= transactionResult[i]["value"];
+            console.log(`Wow gareeb ${transactionResult[i]["from"]}`);
           }
         }
 
