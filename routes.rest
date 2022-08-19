@@ -1,0 +1,10 @@
+GET http://localhost:5000/0xce94e5621a5f7068253c42558c147480f38b5e0d
+
+###
+GET http://localhost:5000/etherPricePlusBalanceCalculated/0xce94e5621a5f7068253c42558c147480f38b5e0d
+
+###
+GET http://localhost:5000/0x00000000219ab540356cbb839cbe05303d7705fa
+
+###
+GET http://localhost:5000/0xf977814e90da44bfa03b6295a0616a897441acec
