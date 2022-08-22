@@ -1,6 +1,7 @@
 # Server Side Application to fetch Crypto Transactions of a user
 
-Wow, this was very fun. Code has been commented upon thoroughly for better understanding. 
+A Simple API for etherscan.io
+
 ## Description
 
 All tasks have been completed. The result of the third task will never return the actual balance of the wallet as the DB only stores unique wallet address. I have set the walletAddress as the _id itself and handled all exceptions.
