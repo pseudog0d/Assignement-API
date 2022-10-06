@@ -31,17 +31,9 @@ The DB will get populated as the script is run, you can refer the timestamps in 
 
 Hit the API through POSTMAN, or any tool of your choice, you can always use the route.rest file in VS code with the extension: REST Client and execute it here itself.
 
-Task 1:
-
 ![image_2022-08-19-23-40-05](img/image_2022-08-19-23-40-05.png)
 
 ![image_2022-08-19-23-37-43](img/image_2022-08-19-23-37-43.png)
-
-
-Attaching all the SS for your reference:
-
-Task 3: 
-
 
 ![image_2022-08-19-23-44-10](img/image_2022-08-19-23-44-10.png)
 
